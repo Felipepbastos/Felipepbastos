@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1>Seja bem-vindo</h1>
 
-Me chamo Felipe, atualmente estou aprendendo a programar
+Me chamo Felipe, atualmente estou aprendendo a programar.
 
 ## Stack
 Tecnologias que domino:
